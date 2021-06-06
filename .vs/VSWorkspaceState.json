@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RazorWshop",
+    "\\RazorWshop\\RazorWshop",
+    "\\RazorWshop\\RazorWshop\\Controllers",
+    "\\RazorWshop\\RazorWshop\\Data",
+    "\\RazorWshop\\RazorWshop\\Models",
+    "\\RazorWshop\\RazorWshop\\Views",
+    "\\RazorWshop\\RazorWshop\\Views\\Home"
+  ],
+  "SelectedNode": "\\RazorWshop\\RazorWshop\\RazorWshop.csproj",
+  "PreviewInSolutionExplorer": false
+}

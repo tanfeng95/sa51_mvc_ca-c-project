@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    string[] images = (string[])ViewData["images"];
+    string[] product_name = (string[])ViewData["product_name"];
+    string[] description = (string[])ViewData["description"];
+    string[] date = (string[])ViewData["date"];
+    string[] activation_code = (string[])ViewData["activation_code"];
+}
+
+<style>
+    #mainframe {
+        margin: auto;
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 30px;
+    }
+
+    #mainframe td {
+        height: 200px;
+        width: 30%;
+        text-align: center;
+        padding: 2% 2% 0% 2%;
+        background-color: lightblue;
+    }
+
+    .listing-box {
+        border-color: grey;
+        border-style: solid;
+        border-width: 3px;
+    }
+
+    #image {
+        height: 70%;
+        width: 70%;
+    }
+
+    #pdt-name {
+        font-weight: bold;
+        margin: 1%;
+    }
+
+    #pdt-descr {
+        text-align: justify;
+        margin: 2%;
+    }
+
+    #add-button {
+        position: relative;
+        bottom: 0px;
+        margin: 2%;
+        text-align: center;
+    }
+
+    .pdt-details td {
+        height: auto !important;
+        text-align: left !important;
+        font-size: 0.8em;
+    }
+</style>
+
+<table id="mainframe">
+    @for (int i = 0; i < images.Length; i += 1)
+    {
+        int j;
+
+    <tr>
+        @for (j = 0; j < 1 && i + j < images.Length; j++)
+        {
+            string url = ViewData["url_prefix"] +
+                images[i + j] + ViewData["url_postfix"];
+
+            string[] acode = activation_code[i + j].Split(",");
+
+            <td class="listing-box">
+                <img id="image" src=@url />
+                <div id="pdt-name">@product_name[i + j]</div>
+                <div id="pdt-descr">@description[i + j]</div>
+            </td>
+
+            <td>
+                <table class="pdt-details">
+                    <tr>
+                        <td>Purchaed On:</td>
+                        <td>@date[i + j]</td>
+                    </tr>
+                    <tr>
+                        <td>Quantity: </td>
+                        <td>@acode.Length</td>
+                    </tr>
+                    <td>Activation Code:</td>
+                    <td>
+                        @if (acode.Length > 1)
+                        {
+                            <form>
+                                <select id="select">
+                                    @foreach (string str in acode)
+                                    {
+                                        <option value="@str" >@str</option>
+                                    }
+                                </select>
+                            </form> 
+                        }
+                        else
+                        {
+                        @acode[0]
+                        }
+                        </td>
+                </table>
+            </td>
+        }
+
+        @for (; j < 3; j++)
+        {
+            <td></td>
+        }
+    </tr>
+    }
+</table>

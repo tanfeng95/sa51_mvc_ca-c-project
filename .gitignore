@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RazorWshop/RazorWshop/obj/Debug/netcoreapp3.1/Razor/Views/Cart.cshtml.g.cs
+/RazorWshop/RazorWshop/obj/Debug/netcoreapp3.1/Razor/Views/Gallery.cshtml.g.cs
+/RazorWshop/RazorWshop/obj/Debug/netcoreapp3.1/Razor/Views/Login.cshtml.g.cs
+/RazorWshop/RazorWshop/obj/Debug/netcoreapp3.1/Razor/Views/Purchase.cshtml.g.cs

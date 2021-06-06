@@ -1,0 +1,986 @@
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+D:\NetCoreProjects\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+D:\NetCoreProjects\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Security\Login.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyPurchases.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\CA_draft1\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyPurchases.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\search\Index.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyPurchases.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\search\Index.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+D:\SA51\Asp.net Core\CAProject\Combined\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyPurchases.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\SA51\Asp.net Core\CAProject\Comine_Rough\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\Gallery.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\MyPurchases.cshtml.g.cs
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\ViewCart.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\Gallery.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\MyPurchases.cshtml.g.cs
+C:\Users\tanfe\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\ViewCart.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\Gallery.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\MyPurchases.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\ViewCart.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+C:\Users\lihao\Source\Repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Registrate\Index.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.exe
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.deps.json
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.json
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.runtimeconfig.dev.json
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csprojAssemblyReference.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfoInputs.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.AssemblyInfo.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CoreCompileInputs.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.MvcApplicationPartsAssemblyInfo.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorAssemblyInfo.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.input.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.TagHelpers.output.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorCoreGenerate.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\Gallery.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\MyPurchases.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\OnHold\Home\ViewCart.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Registrate\Index.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.RazorTargetAssemblyInfo.cs
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.Views.pdb
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.csproj.CopyComplete
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.Manifest.cache
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\staticwebassets\RazorWshop.StaticWebAssets.xml
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.dll
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.pdb
+D:\jxlau\NUS\GitHubRepository\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\RazorWshop.genruntimeconfig.cache
+C:\Users\DaJie\OneDrive\GDipSA\SA4102 SA51 Enterprise Solutions Design and Development\ASP.NET Core\gdipsa51_mvc_ca\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Registrate\Index.cshtml.g.cs
+C:\Users\tanfe\source\repos\gdipsa51_mvc_ca3\RazorWshop\RazorWshop\obj\Debug\netcoreapp3.1\Razor\Views\Registrate\Index.cshtml.g.cs
